@@ -1,0 +1,9 @@
+const arr= [0,1,2,3,4,5,6]
+arr[0] = "Yogyakarta",
+arr[1] = "Bali",
+arr[2] = "Padang",
+arr[3] = "Purwokerto",
+arr[4] = "Banyumas",
+arr[5] = "Magelang",
+arr[6] = "Solo",
+arr.forEach(el => console.log(el))
